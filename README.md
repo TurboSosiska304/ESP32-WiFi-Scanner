@@ -18,7 +18,7 @@ A powerful WiFi scanner built on the ESP32 platform, featuring a web interface f
 - **Development Environment**: Basic familiarity with C++ and ESP32 programming.
 
 ## Installation
-1. **Clone the Repository**:   git clone https://github.com/yourusername/ESP32-WiFi-Scanner.git
+1. **Clone the Repository**:   https://github.com/TurboSosiska304/ESP32-WiFi-Scanner.git
 
 2. **Open the Project**:
 - Launch Arduino IDE and open `src/main.cpp`.
