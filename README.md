@@ -61,7 +61,3 @@ A powerful WiFi scanner built on the ESP32 platform, featuring a web interface f
 ## Customization
 - Modify `IDLE_TIMEOUT` (default: 10000 ms) to adjust how long the device stays at high frequency after activity.
 - Extend the project by adding new endpoints (e.g., `/restart`) or integrating with external APIs.
-
-## License
-MIT License (see the `LICENSE` file).
-
