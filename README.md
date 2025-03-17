@@ -54,9 +54,9 @@ A powerful WiFi scanner built on the ESP32 platform, featuring a web interface f
 ## Debugging
 - Open the Serial Monitor (115200 baud) to view startup logs, IP address, and CPU frequency changes.
 - Example output:
-  Access Point created
-  IP address: 192.168.4.1
-  Switching to high frequency: 240 MHz
+- Access Point created
+- IP address: 192.168.4.1
+- Switching to high frequency: 240 MHz
 
 ## Customization
 - Modify `IDLE_TIMEOUT` (default: 10000 ms) to adjust how long the device stays at high frequency after activity.
